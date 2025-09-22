@@ -39,11 +39,11 @@ Project conducts Market Risk Analysis on a portfolio of Indian stocks using hist
 ## Final Results ##
 
 - **Average Weekly Returns (8-Year Data):**  
-  - 📉 Vodafone Idea: **-0.0039**  
-  - 📉 Dish TV: **-0.0037**  
-  - 📈 Infosys: **+0.0021**  
-  - 📈 Hindustan Unilever (HUL): **+0.0023**  
-  - 📈 Cipla: **+0.0025**  
+  - **Vodafone Idea**: **-0.0039**  
+  - **Dish TV**: **-0.0037**  
+  - **Infosys**: **+0.0021**  
+  - **Hindustan Unilever (HUL)**: **+0.0023**  
+  - **Cipla**: **+0.0025**  
 
 - **Volatility (Standard Deviation of Returns):**  
   - Higher for Vodafone Idea & Dish TV → **riskier investments**  
