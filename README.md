@@ -46,12 +46,12 @@ Project conducts Market Risk Analysis on a portfolio of Indian stocks using hist
   - **Cipla**: **+0.0025**  
 
 - **Volatility (Standard Deviation of Returns):**  
-  - Higher for Vodafone Idea & Dish TV → **riskier investments**  
+  - Higher for Vodafone Idea & Dish TV → **riskier investments**    
   - Lower for Hindustan Unilever & Cipla → **more stable investments**  
 
 - **Key Insights:**  
   - Investors face a **risk-return trade-off**.  
-  - Stable stocks (HUL, Cipla, Infosys) are defensive choices.  
+  - Stable stocks (HUL, Cipla, Infosys) are defensive choices.   
   - Riskier stocks (Vodafone, Dish TV) may provide speculative opportunities but carry high volatility.  
   - Diversification reduces overall portfolio risk.  
 
