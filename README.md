@@ -57,4 +57,4 @@ Project conducts Market Risk Analysis on a portfolio of Indian stocks using hist
 
 ## Tech Stack ##
 - **Python** → pandas, NumPy, matplotlib, seaborn.  
-- **Jupyter Notebook** → for data analysis and visualization,
+- **Jupyter Notebook** → for data analysis and visualization.
