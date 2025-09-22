@@ -34,4 +34,27 @@ Project conducts Market Risk Analysis on a portfolio of Indian stocks using hist
 7. **Conclusion**  
    - Infosys, Cipla, and HUL offer better risk-adjusted returns.  
    - Vodafone Idea and Dish TV are highly volatile and riskier.  
-   - A diversified portfolio balances both growth and stability.  
+   - A diversified portfolio balances both growth and stability.
+
+## Final Results ##
+
+- **Average Weekly Returns (8-Year Data):**  
+  - 📉 Vodafone Idea: **-0.0039**  
+  - 📉 Dish TV: **-0.0037**  
+  - 📈 Infosys: **+0.0021**  
+  - 📈 Hindustan Unilever (HUL): **+0.0023**  
+  - 📈 Cipla: **+0.0025**  
+
+- **Volatility (Standard Deviation of Returns):**  
+  - Higher for Vodafone Idea & Dish TV → **riskier investments**  
+  - Lower for Hindustan Unilever & Cipla → **more stable investments**  
+
+- **Key Insights:**  
+  - Investors face a **risk-return trade-off**.  
+  - Stable stocks (HUL, Cipla, Infosys) are defensive choices.  
+  - Riskier stocks (Vodafone, Dish TV) may provide speculative opportunities but carry high volatility.  
+  - Diversification reduces overall portfolio risk.  
+
+## Tech Stack ##
+- **Python** → pandas, NumPy, matplotlib, seaborn.  
+- **Jupyter Notebook** → for data analysis and visualization,
