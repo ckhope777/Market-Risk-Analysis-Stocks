@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)  
 ![Jupyter Notebook](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange?logo=jupyter&logoColor=white)
 
 # Market-Risk-Analysis-Stocks
